@@ -36,7 +36,7 @@ The API will be available at `http://localhost:8000` (interactive Swagger docs a
 
 ### 2. Run Locally
 ```bash
-python3.12 -m venv .venv
+python3.13 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
