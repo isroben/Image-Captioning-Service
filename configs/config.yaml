@@ -1,0 +1,7 @@
+model:
+  name: "Salesforce/blip-image-captioning-base"
+  max_new_tokens: 30
+  device: "cpu"
+
+data:
+  max_image_size: 384
